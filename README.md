@@ -1,6 +1,6 @@
 # Illumina
 
-<p>O Illumina é um projeto acadêmico, que tem por objetivo colocar em prática o conhecimento obtido na cadeira de <strong>programação em dispositivos móveis</strong>.</p>
+<p>O Illumina é um projeto acadêmico, que tem por objetivo colocar em prática o conhecimento obtido na cadeira de <strong>programação para dispositivos móveis</strong>.</p>
 
 <h3>Os desenvolvedores são:</h3>
 <ul>
