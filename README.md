@@ -1,7 +1,7 @@
 # Illumina 💡
 
 <h4>
-  O Illumina é uma aplicação para ajudar na organização dos estudos no seu dia a dia! ✍🏻
+  ✍🏻 O Illumina é uma aplicação para ajudar na organização dos estudos no seu dia a dia! 
 </h4>
 
 <p>📓 Esse é um projeto acadêmico, que tem por objetivo colocar em prática o conhecimento obtido na cadeira de <strong>programação para dispositivos móveis</strong>. </p>
